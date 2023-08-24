@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623276320194",
+    "project_id": "buy-it-40ab8",
+    "storage_bucket": "buy-it-40ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623276320194:android:1d1f909cffa7ae77a8225b",
+        "android_client_info": {
+          "package_name": "com.mahmoud.ecommerce_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623276320194-girtjiutmordk70asr21nc386iah0gjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4goofP6O3jFNbUzab7OgHDkQ-TMlS-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623276320194-girtjiutmordk70asr21nc386iah0gjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
